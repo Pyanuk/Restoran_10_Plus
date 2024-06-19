@@ -1,0 +1,31 @@
+{
+    "cart": [
+        {
+            "cost": 2555.0,
+            "name": "test",
+            "status": "Done"
+        },
+        {
+            "cost": 600.0,
+            "name": "grecha",
+            "status": "Done"
+        },
+        {
+            "cost": 525.0,
+            "name": "plov",
+            "status": "Done"
+        },
+        {
+            "cost": 600.0,
+            "name": "grecha",
+            "status": "Done"
+        },
+        {
+            "cost": 45.0,
+            "name": "salad",
+            "status": "Done"
+        },
+        {
+            "cost": 45.0,
+            "name": "salad",
+            "status": "

@@ -1,0 +1,108 @@
+{
+    "menu": [
+        {
+            "cookingTime": "55",
+            "cost": 45.0,
+            "description": "3",
+            "ingredients": [
+                {
+                    "id": 1,
+                    "name": "cucumber",
+                    "price": 444.0
+                },
+                {
+                    "id": 2,
+                    "name": "tomato",
+                    "price": 45.0
+                }
+            ],
+            "name": "salad",
+            "weight": "25"
+        },
+        {
+            "cookingTime": "90",
+            "cost": 500.0,
+            "description": "jarenoe",
+            "ingredients": [
+                {
+                    "id": 1,
+                    "name": "cucumber",
+                    "price": 444.0
+                },
+                {
+                    "id": 2,
+                    "name": "tomato",
+                    "price": 45.0
+                }
+            ],
+            "name": "myaso",
+            "weight": "760"
+        },
+        {
+            "cookingTime": "3",
+            "cost": 300.0,
+            "description": "sdf",
+            "ingredients": [
+                {
+                    "id": 1,
+                    "name": "cucumber",
+                    "price": 444.0
+                },
+                {
+                    "id": 2,
+                    "name": "ka",
+                    "price": 0.0
+                }
+            ],
+            "name": "salat",
+            "weight": "250"
+        },
+        {
+            "cookingTime": "26",
+            "cost": 2555.0,
+            "description": "fdgdf",
+            "ingredients": [
+                {
+                    "id": 4,
+                    "name": "svekla",
+                    "price": 24.0
+                },
+                {
+                    "id": 6,
+                    "name": "onion",
+                    "price": 10.0
+                }
+            ],
+            "name": "test",
+            "weight": "25"
+        },
+        {
+            "cookingTime": "24",
+            "cost": 525.0,
+            "description": "dg",
+            "ingredients": [
+                {
+                    "id": 3,
+                    "name": "potata",
+                    "price": 55.0
+                }
+            ],
+            "name": "plov",
+            "weight": "400"
+        },
+        {
+            "cookingTime": "90",
+            "cost": 600.0,
+            "description": "gfd",
+            "ingredients": [
+                {
+                    "id": 2,
+                    "name": "ka",
+                    "price": 0.0
+                }
+            ],
+            "name": "grecha",
+            "weight": "255"
+        }
+    ]
+}

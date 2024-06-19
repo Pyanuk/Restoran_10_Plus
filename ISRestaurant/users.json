@@ -1,0 +1,60 @@
+{
+    "users": [
+        {
+            "firstName": "Michael",
+            "lastName": "Zubenko",
+            "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+            "patronymic": "Petrovic",
+            "role": "Admin",
+            "username": "admin"
+        },
+        {
+            "firstName": "Anna",
+            "lastName": "Goncharova",
+            "password": "ce35ea53bfffd49da6bb8bda2d9be02de5a935481181b452a629d5d524ccf0d9",
+            "patronymic": "Michailovna",
+            "role": "Skladskoy",
+            "username": "sklad"
+        },
+        {
+            "firstName": "Ilon",
+            "lastName": "Mask",
+            "password": "955ed10b73d6265b1adcf768b94f8dd5d91f33309db94b6b3af4efa822f1d9af",
+            "patronymic": "Vitalievich",
+            "role": "Supplier",
+            "username": "supplier"
+        },
+        {
+            "firstName": "Alla",
+            "lastName": "Vlasova",
+            "password": "ffb0a9283f7fbbf55b96dfc41775baba161fea877d96e06d3dc188830fb22cc3",
+            "patronymic": "Anatolyevna",
+            "role": "Bughalter",
+            "username": "bughalter"
+        },
+        {
+            "firstName": "Galina",
+            "lastName": "Jutaeva",
+            "password": "f64a6b0c66e4bf0b2f9b31dd9a07f18b1afd78a4523336153fcaf81e49386b92",
+            "patronymic": "Petrovna",
+            "role": "Chef",
+            "username": "povar"
+        },
+        {
+            "firstName": "Anton",
+            "lastName": "Jutaev",
+            "password": "e24280df0c0799b35b6e2f4c20b3f08c7af3e5c9a10f6ab9e112ddafbaec7955",
+            "patronymic": "Dmitrievich",
+            "role": "Officiant",
+            "username": "ofic"
+        },
+        {
+            "firstName": "g",
+            "lastName": "f",
+            "password": "fc1963ddc7927cb0d4a4869b1fc50cdafa7c9c815e039ec71f9d02138f2baaf3",
+            "patronymic": "g",
+            "role": "Admin",
+            "username": "ramil"
+        }
+    ]
+}

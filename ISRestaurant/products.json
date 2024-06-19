@@ -1,0 +1,109 @@
+{
+    "products": [
+        {
+            "id": 4,
+            "name": "svekla",
+            "price": 24.0
+        },
+        {
+            "id": 5,
+            "name": "chese",
+            "price": 89.0
+        },
+        {
+            "id": 7,
+            "name": "milk",
+            "price": 150.0
+        },
+        {
+            "id": 8,
+            "name": "carat",
+            "price": 45.0
+        },
+        {
+            "id": 8,
+            "name": "carat",
+            "price": 45.0
+        },
+        {
+            "id": 8,
+            "name": "carat",
+            "price": 45.0
+        },
+        {
+            "id": 8,
+            "name": "carat",
+            "price": 45.0
+        },
+        {
+            "id": 8,
+            "name": "carat",
+            "price": 45.0
+        },
+        {
+            "id": 8,
+            "name": "carat",
+            "price": 45.0
+        },
+        {
+            "id": 2,
+            "name": "tomato",
+            "price": 50.0
+        },
+        {
+            "id": 2,
+            "name": "tomato",
+            "price": 50.0
+        },
+        {
+            "id": 2,
+            "name": "tomato",
+            "price": 50.0
+        },
+        {
+            "id": 8,
+            "name": "carat",
+            "price": 45.0
+        },
+        {
+            "id": 8,
+            "name": "carat",
+            "price": 45.0
+        },
+        {
+            "id": 8,
+            "name": "carat",
+            "price": 45.0
+        },
+        {
+            "id": 8,
+            "name": "carat",
+            "price": 45.0
+        },
+        {
+            "id": 8,
+            "name": "carat",
+            "price": 45.0
+        },
+        {
+            "id": 4,
+            "name": "svekla",
+            "price": 24.0
+        },
+        {
+            "id": 4,
+            "name": "svekla",
+            "price": 24.0
+        },
+        {
+            "id": 4,
+            "name": "svekla",
+            "price": 24.0
+        },
+        {
+            "id": 9,
+            "name": "cir",
+            "price": 100.0
+        }
+    ]
+}
